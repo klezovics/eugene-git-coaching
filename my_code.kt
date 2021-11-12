@@ -1,6 +1,3 @@
-DELETE ALL DATABASES !!!! NOW !!!!
-
-
 println('Hello Kotlin);
 
 BABABABABABAB
